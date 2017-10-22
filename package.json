@@ -1,0 +1,8 @@
+{
+  "name": "MyFirstYarn",
+  "version": "1.0.0",
+  "description": "FirstOffAll",
+  "main": "index.js",
+  "author": "NightmareZIP <vita.miha12@gmail.com>",
+  "license": "MIT"
+}
